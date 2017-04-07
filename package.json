@@ -1,0 +1,7 @@
+{
+  "name": "meine Übung 5",
+  "version": "version 1.0",
+  "dependencies": {
+    "lodash.multiply": "^4.9.0"
+  }
+}
